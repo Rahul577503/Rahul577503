@@ -22,9 +22,9 @@ Here are some of the technologies and tools I'm familiar with:
 I love working on projects that challenge me and allow me to learn new things. Check out some of my recent projects:
 
 - [Project 1](https://github.com/Rahul577503/Task-Management-Api):Restful Api.
-- [Project 2](https://github.com/Rahul577503/Image-search-app): Image-Search App 
+- [Project 2](https://github.com/Rahul577503/Image-search-app): Image-Search App using unsplash Api
 - [Project 3](https://github.com/Rahul577503/Quizz-App) :Quizz-App
-- using unsplash Api
+  
  And more pls checkout my repo.
 
 ## Let's Connect
